@@ -1,4 +1,3 @@
-[![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 <h1 align="center">Hi 👋, I'm Fahri!</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
