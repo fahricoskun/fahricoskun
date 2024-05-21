@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahri-coskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahri-coskun" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fahricoskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahricoskun" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18367501/fahricoskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahricoskun" height="30" width="40" /></a>
 <a href="https://instagram.com/fahricosskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahricosskun" height="30" width="40" /></a>
 <a href="https://medium.com/@fahricoskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fahricoskun" height="30" width="40" /></a>
 </p>
